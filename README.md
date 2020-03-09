@@ -5,7 +5,7 @@
 # Awesome Docker Lamp
 A Docker image with simple script to build LAMP stack apps (Ubuntu, Apache, PHP and MySql) using single docker image.
 
-<img src="examples/logos/2.png" width="400"><img src="examples/logos/1.png" width="400">
+<img src="https://github.com/khaledalam/awesome-docker-lamp/blob/master/examples/logos/2.png?raw=true" width="400"><img src="https://github.com/khaledalam/awesome-docker-lamp/blob/master/examples/logos/1.png?raw=true" width="400">
 
 ## Features (NEW)
 - `nano` editor added!
